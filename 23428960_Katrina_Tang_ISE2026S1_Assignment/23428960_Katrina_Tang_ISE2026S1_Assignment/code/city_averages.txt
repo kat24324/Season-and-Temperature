@@ -1,0 +1,3 @@
+Perth,18.2,23.0
+Adelaide,16.5,21.2
+Brisbane,20.4,25.6
